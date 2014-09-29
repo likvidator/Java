@@ -1,6 +1,11 @@
 /**
  * Created by likvidator on 25.09.14.
  */
+
+//anastasiya.zayac@gmail.com до 3.10
+//    deadline 8.10ne 8.10ne 8.10
+// AWT and Swing
+
 public class Oper {
 
     private static Read in = new Read();

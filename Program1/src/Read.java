@@ -10,7 +10,7 @@ public class Read {
         if (c.equals("y") || c.equals("n")) {
             return c.equals("y");
         } else {
-            System.out.println("Введенные значения не правельные");
+            System.out.println("Введенные значения не правельные, введите y или n");
             Read();
         }
         return false;

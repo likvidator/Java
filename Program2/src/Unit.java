@@ -10,9 +10,14 @@ public class Unit {
         speed=s;
         set=se;
     }
+    public boolean Dead(){
+        return this.half <= 0;
+    }
 
     public static void main(String[] args){
         People test = new People();
-        System.out.println(test.speed);
+        Elf el = new Elf();
+        Fight round = new Fight(test,el);
+        round.Start();
     }
 }

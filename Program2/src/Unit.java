@@ -10,14 +10,33 @@ public class Unit {
         speed=s;
         set=se;
     }
-    public boolean Dead(){
+    public boolean isDead(){
         return this.half <= 0;
+    }
+    public void blow_head(Unit a){
+        a.half-=this.power*0.1+this.speed*0.2;
+    }
+    public void blow_body(Unit a){
+        a.half-=this.power*0.1+this.speed*0.2;
+
+    }
+    public void blow_hands(Unit a){
+        a.half-=this.power*0.1+this.speed*0.2;
+
+    }
+    public void blow_feet(Unit a){
+        a.half-=0;
+
     }
 
     public static void main(String[] args){
-        People test = new People();
-        Elf el = new Elf();
-        Fight round = new Fight(test,el);
+        Start a = new Start();
+
+        a.startGame();
+        Unit One = a.setA();
+        Unit Two = a.setB();
+        Fight round = new Fight(One,Two);
         round.Start();
+
     }
 }

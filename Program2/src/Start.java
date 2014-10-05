@@ -11,7 +11,7 @@ public class Start {
         System.out.println("1.Человек\n"+
                 "2.Эльф\n"+
                 "3.Орк\n"+
-                "4.Дирады");
+                "4.Дриады");
         int unit = s.nextInt();
         System.out.println("Выбирите, против кого вы хотите сразиться!\n1.Человек\n" +
                 "2.Эльф\n" +

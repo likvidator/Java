@@ -41,11 +41,11 @@ public class Start {
     }
 
 
-    public Unit setA() {
+    public Unit getA() {
         return a;
     }
 
-    public Unit setB() {
+    public Unit getB() {
         return b;
     }
 }

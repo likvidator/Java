@@ -12,20 +12,41 @@ public class Fight {
         Scanner s = new Scanner(System.in);
         System.out.println("Бой начинается!");
         while (!a.isDead() && !b.isDead()) {
+
             System.out.println("Игрок 1. Куда будешь бить?\n" +
                     "1.Голова\n" +
                     "2.Ноги\n" +
                     "3.Руки\n" +
                     "4.Тело");
-            int one = s.nextInt();
+            int oneAttack = s.nextInt();
+
+            System.out.println("Игрок 1. Куда поставить блок??\n" +
+                    "1.Голова\n" +
+                    "2.Ноги\n" +
+                    "3.Руки\n" +
+                    "4.Тело");
+            int oneBlock =s.nextInt();
+
             System.out.println("Игрок 2. Куда будешь бить?\n" +
                     "1.Голова\n" +
                     "2.Ноги\n" +
                     "3.Руки\n" +
                     "4.Тело");
-            int two = s.nextInt();
-            blow(one,a,b);
-            blow(two,b,a);
+            int twoAttack = s.nextInt();
+
+            System.out.println("Игрок 2. Куда поставить блок??\n" +
+                    "1.Голова\n" +
+                    "2.Ноги\n" +
+                    "3.Руки\n" +
+                    "4.Тело");
+            int twoBlock = s.nextInt();
+
+            if (oneAttack!=twoBlock) {
+                blow(oneAttack, a, b);
+            }
+            if (twoAttack!=oneBlock) {
+                blow(twoAttack, b, a);
+            }
             System.out.println(a.live);
             System.out.println(b.live);
         }
@@ -34,19 +55,19 @@ public class Fight {
     public static void blow(int blow, Unit a, Unit b){
         switch (blow) {
             case 1: {
-                a.blow_head(b);
+                a.hit_head(b);
                 break;
             }
             case 2: {
-                a.blow_feet(b);
+                a.hit_feet(b);
                 break;
             }
             case 3: {
-                a.blow_hands(b);
+                a.hit_hands(b);
                 break;
             }
             case 4: {
-                a.blow_body(b);
+                a.hit_body(b);
                 break;
             }
         }

@@ -1,3 +1,5 @@
+package ru.fight.controller;
+
 import java.util.Scanner;
 
 public class Fight {

@@ -1,3 +1,6 @@
+package ru.fight.controller;
+
+import ru.fight.view.Start;
 
 public class Unit {
     public float live;
@@ -29,16 +32,4 @@ public class Unit {
 
     }
 
-    public static void main(String[] args){
-//        Form app = new Form(); //Создаем экземпляр нашего приложения
-//        app.setVisible(true);
-        Start a = new Start();
-
-        a.startGame();
-        Unit One = a.getA();
-        Unit Two = a.getB();
-        Fight round = new Fight(One,Two);
-        round.Start();
-
-    }
 }

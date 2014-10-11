@@ -1,3 +1,8 @@
+package ru.fight.view;
+
+import ru.fight.controller.Unit;
+import ru.fight.model.*;
+
 import java.util.Scanner;
 
 

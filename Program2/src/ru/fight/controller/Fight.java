@@ -16,7 +16,7 @@ public class Fight {
     public void Start() {
 
         System.out.println("Бой начинается!");
-        while (!a.isDead() && !b.isDead()) {
+        while (!(a.isLive()==0) && !(b.isLive()==0)) {
             ViewFight view = new ViewFight();
 
             int oneAttack = view.hit(a.name);
@@ -31,8 +31,8 @@ public class Fight {
             if (twoAttack!=oneBlock) {
                 blow(twoAttack, b, a);
             }
-            System.out.println("Жизни "+a.name + " " + a.live);
-            System.out.println("Жизни "+b.name + " " + b.live);
+            System.out.println("Жизни " + a.name + " " + a.isLive());
+            System.out.println("Жизни " + b.name + " " + b.isLive());
         }
     }
 

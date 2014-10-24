@@ -13,8 +13,11 @@ public class Unit {
         this.speed=speed;
         this.endurance=endurance;
     }
-    public boolean isDead(){
-        return this.live <= 0;
+    public float isLive(){
+        if (this.live<=0){
+            return 0;
+        };
+        return this.live;
     }
     public void hit_head(Unit a){
         a.live-=this.power*0.1+this.speed*0.2;

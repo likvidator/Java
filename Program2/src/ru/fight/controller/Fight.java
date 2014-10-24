@@ -1,5 +1,8 @@
 package ru.fight.controller;
 
+import ru.fight.model.Unit;
+import ru.fight.view.ViewFight;
+
 import java.util.Scanner;
 
 public class Fight {
@@ -11,37 +14,16 @@ public class Fight {
         this.b=b;
     }
     public void Start() {
-        Scanner s = new Scanner(System.in);
+
         System.out.println("Бой начинается!");
         while (!a.isDead() && !b.isDead()) {
+            ViewFight view = new ViewFight();
 
-            System.out.println("Игрок 1. Куда будешь бить?\n" +
-                    "1.Голова\n" +
-                    "2.Ноги\n" +
-                    "3.Руки\n" +
-                    "4.Тело");
-            int oneAttack = s.nextInt();
+            int oneAttack = view.hit(a.name);
+            int oneBlock = view.block(a.name);
 
-            System.out.println("Игрок 1. Куда поставить блок??\n" +
-                    "1.Голова\n" +
-                    "2.Ноги\n" +
-                    "3.Руки\n" +
-                    "4.Тело");
-            int oneBlock =s.nextInt();
-
-            System.out.println("Игрок 2. Куда будешь бить?\n" +
-                    "1.Голова\n" +
-                    "2.Ноги\n" +
-                    "3.Руки\n" +
-                    "4.Тело");
-            int twoAttack = s.nextInt();
-
-            System.out.println("Игрок 2. Куда поставить блок??\n" +
-                    "1.Голова\n" +
-                    "2.Ноги\n" +
-                    "3.Руки\n" +
-                    "4.Тело");
-            int twoBlock = s.nextInt();
+            int twoAttack = view.hit(b.name);
+            int twoBlock = view.block(b.name);
 
             if (oneAttack!=twoBlock) {
                 blow(oneAttack, a, b);
@@ -49,10 +31,12 @@ public class Fight {
             if (twoAttack!=oneBlock) {
                 blow(twoAttack, b, a);
             }
-            System.out.println(a.live);
-            System.out.println(b.live);
+            System.out.println("Жизни "+a.name + " " + a.live);
+            System.out.println("Жизни "+b.name + " " + b.live);
         }
     }
+
+
 
     public static void blow(int blow, Unit a, Unit b){
         switch (blow) {

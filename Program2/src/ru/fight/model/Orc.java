@@ -1,9 +1,7 @@
 package ru.fight.model;
 
-import ru.fight.controller.Unit;
-
 public class Orc extends Unit {
-    public Orc() {
-        super(110, 110, 70, 110);
+    public Orc(String name) {
+        super(name,110, 110, 70, 110);
     }
 }

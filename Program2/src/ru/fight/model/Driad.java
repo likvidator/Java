@@ -1,9 +1,7 @@
 package ru.fight.model;
 
-import ru.fight.controller.Unit;
-
 public class Driad extends Unit {
-    public Driad() {
-        super(120, 80, 80, 120);
+    public Driad(String name) {
+        super(name ,120, 80, 80, 120);
     }
 }

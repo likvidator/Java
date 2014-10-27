@@ -54,7 +54,8 @@ public class Main {
         int a[] = new int[n];
         int t=1;
         for (int i = 0; i < n; i++) {
-            a[i] = ((k >>> (t * 6)) ^ ((k) << (t * 7)));
+           // a[i] = ((k >>> (t * 6)) ^ ((k) << (t * 7)));
+            a[i] = right(k,6)^left(k,7);
             t++;
         }
         return a;
@@ -113,9 +114,17 @@ public class Main {
         }
         else System.out.println("Error of length");
     }
-
+    public static int left(int a , int i ){
+        a = ((a>>(32 - i)) & ~((-1)<<i)) | a << i;// цикло сдвиг влево на i бит
+        return a;
+    }
+    public static int right(int a, int i ){
+        a = a>>(i) | ((a << (32 - i)) & ~((-1)>>i));// цикло сдвиг вправо на i бит
+        return a;
+    }
     private static int f(int a)
     {
-        return ((a << 17) ^ (((a & 0x0F0F0F0F) >> 4) | (~a & 0xF0F0F0F0))); //0x0F0F0F0F - четные, 0xF0F0F0F0 - нечетные
+//        return ((a << 17) ^ (((a & 0xAAAAAAA) >> 4) | (~a & 0x5555555)));
+        return ((a << 17) ^ (((a & 0x0F0F0F0F) >> 4) | (~a & 0xF0F0F0F0)));//0x0F0F0F0F - четные, 0xF0F0F0F0 - нечетные
     }
 }

@@ -3,10 +3,10 @@ package ru.netcracker.complex;
 public class Main {
 
     public static void main(String[] args) {
-//        Complex a = new Complex(1,2);
-//        Complex b = new Complex(2,1);
-//        Complex c =Complex.add(a,b);
-//        System.out.println(a);
+        Complex a = new Complex(3,3);
+        Complex b = new Complex(2,2);
+        a.mult(b);
+        System.out.println(a.print(a));
 
     }
 }

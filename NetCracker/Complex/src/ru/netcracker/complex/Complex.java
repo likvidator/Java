@@ -27,15 +27,16 @@ public  class Complex {
         return this;
     }
     public  Complex mult( Complex b){
-
-        this.real=this.real*b.real-this.image*b.image;
-        this.image=this.image*b.real+this.real*b.image;
+        Complex a =new Complex(this.real,this.image);
+        this.real=a.real*b.real-a.image*b.image;
+        this.image=a.real*b.image+b.real*a.image;
         return this;
     }
     public  String print(Complex a){
 
         return Integer.toString((int)a.real) + " " + Integer.toString((int) a.image)+ "i";
     }
+
     @Override
     public boolean equals(Object obj){
         if (obj == null){

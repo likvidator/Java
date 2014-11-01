@@ -28,7 +28,7 @@ public class ComplexTest {
         Complex a = new Complex(3,3);
         Complex b = new Complex(2,2);
         a.mult(b);
-        assertEquals(a,new Complex(6,6));
+        assertEquals(a,new Complex(0,12));
     }
 
     @Test

@@ -1,6 +1,6 @@
 package ru.netcracker;
 
-
+//Размер побольше.
 
 public class MyArray {
     private Integer[] a;
@@ -16,6 +16,10 @@ public class MyArray {
         a[0]=value;
     }
     public void printArr(){
+        if (a.length==0){
+            System.out.println("no element");
+            return;
+        }
         for (int i = 0; i <a.length ; i++) {
             System.out.println(a[i]);
         }
@@ -34,14 +38,21 @@ public class MyArray {
         }
         else return null;
     }
-    public int min(){
+    public Integer min(){
+        if (a.length==0){
+            return null;
+        }
         int min = a[0];
         for (int i = 0; i <a.length ; i++) {
             if (a[i]<min) min = a[i];
         }
         return min;
     }
-    public int max(){
+    public Integer max(){
+        if (a.length==0){
+            return null;
+        }
+
         int max = a[0];
         for (int i = 0; i <a.length ; i++) {
             if (a[i]>max) max = a[i];
@@ -67,6 +78,17 @@ public class MyArray {
             a=ar;
         }
 
+    }
+    public void sort(){
+        int p;
+        for (int j = 0; j <a.length ; j++) {
+            for (int i = 0; i <a.length - 1 ; i++)
+                if (a[i] > a[i + 1]) {
+                    p = a[i];
+                    a[i] = a[i + 1];
+                    a[i + 1] = p;
+                }
+        }
     }
 }
 

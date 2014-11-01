@@ -115,12 +115,11 @@ public class Main {
         else System.out.println("Error of length");
     }
     public static int left(int a , int i ){
-        a = ((a>>(32 - i)) & ~((-1)<<i)) | a << i;// цикло сдвиг влево на i бит
-        return a;
+
+        return (a<<i)|(a>>32-i);
     }
     public static int right(int a, int i ){
-        a = a>>(i) | ((a << (32 - i)) & ~((-1)>>i));// цикло сдвиг вправо на i бит
-        return a;
+        return (a>>i)|(a<<32-i);
     }
     private static int f(int a)
     {

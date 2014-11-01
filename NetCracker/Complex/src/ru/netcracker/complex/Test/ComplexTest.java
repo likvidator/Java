@@ -17,12 +17,18 @@ public class ComplexTest {
 
     @Test
     public void testSub() throws Exception {
-
+        Complex a = new Complex(3,3);
+        Complex b = new Complex(2,2);
+        a.sub(b);
+        assertEquals(a,new Complex(1,1));
     }
 
     @Test
     public void testMult() throws Exception {
-
+        Complex a = new Complex(3,3);
+        Complex b = new Complex(2,2);
+        a.mult(b);
+        assertEquals(a,new Complex(6,6));
     }
 
     @Test

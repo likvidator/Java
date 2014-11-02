@@ -5,7 +5,7 @@ package ru.netcracker;
 public class MyArray {
     private Integer[] a;
 
-    MyArray(int... args){
+    public MyArray(int... args){
         a = new Integer[args.length];
         for (int i = 0; i < args.length ; i++) {
             a[i]=args[i];
@@ -14,6 +14,9 @@ public class MyArray {
     MyArray(int value){
         a = new Integer[1];
         a[0]=value;
+    }
+    public int len(){
+        return a.length;
     }
     public void printArr(){
         if (a.length==0){
@@ -89,6 +92,26 @@ public class MyArray {
                     a[i + 1] = p;
                 }
         }
+    }
+    @Override
+    public boolean equals(Object obj){
+        if (obj==null){
+            return false;
+        }
+        if (obj.getClass()!=this.getClass()){
+            return false;
+        }
+        final MyArray other = (MyArray)obj;
+        if (this.len()!=other.len()){
+            return false;
+        }
+        for (int i = 0; i <this.len() ; i++) {
+            if (this.getByIndex(i)!=other.getByIndex(i)){
+                return false;
+            }
+
+        }
+        return true;
     }
 }
 

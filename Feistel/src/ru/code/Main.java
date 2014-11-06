@@ -119,11 +119,12 @@ public class Main {
         return (a<<i)|(a>>32-i);
     }
     public static int right(int a, int i ){
+
         return (a>>i)|(a<<32-i);
     }
     private static int f(int a)
     {
-//        return ((a << 17) ^ (((a & 0xAAAAAAA) >> 4) | (~a & 0x5555555)));
-        return ((a << 17) ^ (((a & 0x0F0F0F0F) >> 4) | (~a & 0xF0F0F0F0)));//0x0F0F0F0F - четные, 0xF0F0F0F0 - нечетные
+        return ((a << 17) ^ (((a & 0xAAAAAAAA) >> 4) | (~a & 0x55555555)));
+//        return (((a<<17)) ^ (((a & 0x0F0F0F0F) >> 4) | (~a & 0xF0F0F0F0)));//0x0F0F0F0F - четные, 0xF0F0F0F0 - нечетные
     }
 }

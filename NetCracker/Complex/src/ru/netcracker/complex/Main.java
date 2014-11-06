@@ -7,6 +7,7 @@ public class Main {
         Complex b = new Complex(2,2);
         a.mult(b);
         System.out.println(a.print(a));
+        System.out.println("Test");
 
     }
 }

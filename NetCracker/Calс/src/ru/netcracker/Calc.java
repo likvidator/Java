@@ -8,33 +8,85 @@ public class Calc {
     int p,l;
 
     public String  start(String a) {
-        System.out.println(plas(plas(a)));
+        System.out.println(minus(plus(divided(multi((a))))));
         return a;
 
     }
-    private String plas( String a){
+    private String plus( String a){
         p=0;
         l=0;
         int i  = a.indexOf("+");
+        if (i==-1){
+            return a;
+        }
         double[] n= new double[2];
         left(n,a,i,0);
         right(n,a,i+1,i+2);
+        if (l>0) l++;
         a=a.substring(0,l)+(n[0]+n[1])+a.substring(p,a.length());
         return a;
     }
+    private String divided( String a){
+        p=0;
+        l=0;
+        int i  = a.indexOf("/");
+        if (i==-1){
+            return a;
+        }
+        double[] n= new double[2];
+        left(n,a,i,0);
+        right(n,a,i+1,i+2);
+        if (n[1]==0){
+            System.out.println("Деление на 0");
+            return a;
+        }
+        if (l>0) l++;
+        a=a.substring(0,l)+(n[0]/n[1])+a.substring(p,a.length());
+        return a;
+    }
+    private String multi( String a){
+        p=0;
+        l=0;
+        int i  = a.indexOf("*");
+        if (i==-1){
+            return a;
+        }
+        double[] n= new double[2];
+        left(n,a,i,0);
+        right(n,a,i+1,i+2);
+        if (l>0) l++;
+        a=a.substring(0,l)+(n[0]*n[1])+a.substring(p,a.length());
+        return a;
+    }
+    private String minus( String a){
+        p=0;
+        l=0;
+        int i  = a.indexOf("-");
+        if (i==-1){
+            return a;
+        }
+        double[] n= new double[2];
+        left(n,a,i,0);
+        right(n,a,i+1,i+2);
+        if (l>0) l++;
+        a=a.substring(0,l)+(n[0]-n[1])+a.substring(p,a.length());
+        return a;
+    }
+
+
     private double[] left(double[] n, String a, int i,int count){
         boolean status = true;
-        while(status) {
-            try {
-                n[0] = new Double(a.substring(count, i));
-                status=false;
+
+        try {
+            n[0] = new Double(a.substring(count, i));
 
 
-            } catch (NumberFormatException e) {
-                count++;
-                left(n, a, i, count);
-            }
+
+        } catch (NumberFormatException e) {
+            count++;
+            left(n, a, i, count);
         }
+
         l = count;
         return n;
     }

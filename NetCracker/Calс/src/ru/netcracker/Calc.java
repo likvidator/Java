@@ -8,10 +8,56 @@ public class Calc {
     int p,l;
 
     public String  start(String a) {
-        System.out.println(minus(plus(divided(multi((a))))));
-        return a;
+        if ((a.contains("("))&&(a.contains(")"))){
+            if (parenthesis(a)){
+                int i1 = a.lastIndexOf("(")+1;
+                int i2 = a.indexOf(")");
+                String z = schet(a.substring(i1,i2));
+                a=a.substring(0,i1-1)+z+a.substring(i2+1,a.length());
+                start(a);
+            }
+            else {
+                a="Не правильно расставлены скобки";
+                return a;
+            }
+        }
+        else {
+            schet(a);
+            return a;
+        }
 
+        return a;
     }
+    private boolean parenthesis(String a){
+        int i=0; ;
+        char z [] = a.toCharArray();
+        for (int j = 0; j <z.length ; j++) {
+            if (z[j]=='('){
+                i++;
+            }
+            if (z[j]==')'){
+                i--;
+            }
+        }
+        return i==0;
+    }
+    private String schet(String a ){
+        while (a.contains("*")){
+            a = multi(a);
+        }
+        while (a.contains("/")){
+            a = divided(a);
+        }
+        while (a.contains("+")){
+            a = plus(a);
+        }
+        while (a.contains("-")){
+            a = minus(a);
+        }
+        return a;
+    }
+
+
     private String plus( String a){
         p=0;
         l=0;
@@ -37,7 +83,7 @@ public class Calc {
         left(n,a,i,0);
         right(n,a,i+1,i+2);
         if (n[1]==0){
-            System.out.println("Деление на 0");
+            a="Деление на 0";
             return a;
         }
         if (l>0) l++;
@@ -75,18 +121,12 @@ public class Calc {
 
 
     private double[] left(double[] n, String a, int i,int count){
-        boolean status = true;
-
         try {
             n[0] = new Double(a.substring(count, i));
-
-
-
         } catch (NumberFormatException e) {
             count++;
             left(n, a, i, count);
         }
-
         l = count;
         return n;
     }

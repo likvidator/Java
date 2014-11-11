@@ -6,27 +6,30 @@ package ru.netcracker;
  */
 public class Calc {
     int p,l;
+    char arr[] = {'1','2','3','4','5','6','7','8','9','0','.','+','-','*','/','(',')'};
 
     public String  start(String a) {
-        if ((a.contains("("))&&(a.contains(")"))){
-            if (parenthesis(a)){
-                int i1 = a.lastIndexOf("(")+1;
-                int i2 = a.indexOf(")");
-                String z = schet(a.substring(i1,i2));
-                a=a.substring(0,i1-1)+z+a.substring(i2+1,a.length());
-                start(a);
+        if (correct(a)){
+            while (fin(a)) {
+                if ((a.contains("(")) && (a.contains(")"))) {
+                    if (parenthesis(a)) {
+                        int i1 = a.lastIndexOf("(") + 1;
+                        int i2 = a.indexOf(")");
+                        String z = schet(a.substring(i1, i2));
+                        a = a.substring(0, i1 - 1) + z + a.substring(i2 + 1, a.length());
+                        start(a);
+                    } else {
+                        a = "Не правильно расставлены скобки";
+                        return a;
+                    }
+                } else {
+                    a = schet(a);
+                    return a;
+                }
             }
-            else {
-                a="Не правильно расставлены скобки";
-                return a;
-            }
-        }
-        else {
-            schet(a);
             return a;
         }
-
-        return a;
+        return "Некорректное выражение";
     }
     private boolean parenthesis(String a){
         int i=0; ;
@@ -56,7 +59,32 @@ public class Calc {
         }
         return a;
     }
-
+    private boolean fin(String a){
+        char z [] = a.toCharArray();
+        for (int i = 0; i <a.length() ; i++) {
+            if ((z[i] == '(') || (z[i] == ')') || (z[i] == '+') || (z[i] == '-') || (z[i] == '*') || (z[i] == '/')) {
+                return true;
+            }
+        }
+        return false;
+    }
+    private boolean correct(String a ){
+        char n [] = a.toCharArray();
+        for (int i = 0; i < n.length ; i++) {
+            if (!search(n[i])){
+                return false;
+            }
+        }
+        return true;
+    }
+    private boolean search(char a){
+        for (int i = 0; i <arr.length ; i++) {
+            if (arr[i]==a){
+                return true;
+            }
+        }
+        return false;
+    }
 
     private String plus( String a){
         p=0;
@@ -86,7 +114,7 @@ public class Calc {
             a="Деление на 0";
             return a;
         }
-        if (l>0) l++;
+        if (l>0) l+=3;
         a=a.substring(0,l)+(n[0]/n[1])+a.substring(p,a.length());
         return a;
     }

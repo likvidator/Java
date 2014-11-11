@@ -18,7 +18,7 @@ public class CalcTest {
         a=c.start(a);
         assertEquals("4.0", a);
 
-        a = "3+2";
+        a = "3+2.0";
         a=c.start(a);
         assertEquals("5.0", a);
 
@@ -37,5 +37,29 @@ public class CalcTest {
         a= "123a/a";
         a=c.start(a);
         assertEquals("Некорректное выражение",a);
+
+        a= "123   ";
+        a=c.start(a);
+        assertEquals("Некорректное выражение",a);
+
+        a= "2+2*2";
+        a=c.start(a);
+        assertEquals("6.0",a);
+
+        a= "(2*(5*(1+(2*2)/2)/2))/2";
+        a=c.start(a);
+        assertEquals("7.5",a);
+
+        a= "16/2/2/2";
+        a=c.start(a);
+        assertEquals("2.0",a);
+
+        a= "8.0/4.0";
+        a=c.start(a);
+        assertEquals("2.0",a);
+
+        a= "2*2/(2-2)";
+        a=c.start(a);
+        assertEquals("Деление на 0",a);
     }
 }

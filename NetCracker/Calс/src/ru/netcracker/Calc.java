@@ -114,7 +114,7 @@ public class Calc {
             a="Деление на 0";
             return a;
         }
-        if (l>0) l+=3;
+        if (l>0) l+=1;
         a=a.substring(0,l)+(n[0]/n[1])+a.substring(p,a.length());
         return a;
     }
@@ -151,11 +151,12 @@ public class Calc {
     private double[] left(double[] n, String a, int i,int count){
         try {
             n[0] = new Double(a.substring(count, i));
+            l = count;
         } catch (NumberFormatException e) {
             count++;
             left(n, a, i, count);
         }
-        l = count;
+
         return n;
     }
     private double[] right(double[] n, String a, int i , int count){

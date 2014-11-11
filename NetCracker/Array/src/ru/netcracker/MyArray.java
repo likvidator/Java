@@ -18,6 +18,9 @@ public class MyArray {
     public int len(){
         return a.length;
     }
+    public Integer[] setarray(){
+        return a;
+    }
     public void printArr(){
         if (a.length==0){
             System.out.println("no element");

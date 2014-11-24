@@ -3,9 +3,10 @@ package ru.netcracker;
 public class Main {
 
     public static void main(String[] args) {
-        SortArray test = new SortArray(5);
-        test.add(1);
-        test.add(6);
-        test.printArr();
+        Test a = new Test();
+        MyArray myar= new MyArray();
+        SortArray sortarr = new SortArray();
+        a.start(myar);
+        a.start(sortarr);
     }
 }

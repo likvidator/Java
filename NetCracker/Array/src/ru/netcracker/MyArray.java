@@ -2,7 +2,7 @@ package ru.netcracker;
 
 //Размер побольше.
 
-public class MyArray {
+public class MyArray implements Array {
     private Integer[] a;
 
     public MyArray(int... args){
@@ -39,7 +39,7 @@ public class MyArray {
         a=ar;
     }
     public Integer getByIndex(int index){
-        if(index<=a.length-1) {
+        if((index<=a.length-1)&&(index>=0)) {
             return a[index];
         }
         else return null;

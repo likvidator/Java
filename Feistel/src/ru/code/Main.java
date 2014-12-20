@@ -55,7 +55,7 @@ public class Main {
         int t=1;
         for (int i = 0; i < n; i++) {
            // a[i] = ((k >>> (t * 6)) ^ ((k) << (t * 7)));
-            a[i] = right(k,6)^left(k,7);
+            a[i] = right(k,t*6)^left(k,t*7);
             t++;
         }
         return a;
@@ -124,7 +124,6 @@ public class Main {
     }
     private static int f(int a)
     {
-        return ((a << 17) ^ (((a & 0xAAAAAAAA) >> 4) | (~a & 0x55555555)));
-//        return (((a<<17)) ^ (((a & 0x0F0F0F0F) >> 4) | (~a & 0xF0F0F0F0)));//0x0F0F0F0F - четные, 0xF0F0F0F0 - нечетные
+        return (((a<<17)) ^ (((a & 0x0F0F0F0F) >> 4) | (~a & 0xF0F0F0F0)));
     }
 }

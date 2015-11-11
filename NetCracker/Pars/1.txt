@@ -1,0 +1,1285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>GISMETEO.RU: Погода в Воронеже на сегодня, завтра. Прогноз погоды (метеопрогноз) на 1-3 дня по г. Воронеж, Воронежская область, Воронеж, Россия</title>
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=1000" />
+<meta name="description" content="Погода в Воронеже на 1-3 дня. Подробный прогноз погоды в Воронеже на GISMETEO.RU. Погодные карты, геомагнитная обстановка по г. Воронеж, Воронежская область, Воронеж, Россия.">
+<meta name="keywords" content="прогноз, погода, карты, осадки, ветер, влажность, давление">
+<meta name="apple-itunes-app" content="app-id=916760091">
+<meta property="fb:admins" content="100001623167931,1437987721" />
+<meta itemprop="name" content="GISMETEO.RU" />
+<meta itemprop="description" content="Погода в Воронеже на 1-3 дня. Подробный прогноз погоды в Воронеже на GISMETEO.RU. Погодные карты, геомагнитная обстановка по г. Воронеж, Воронежская область, Воронеж, Россия.">
+<meta itemprop="image" content="http://st4.gisstatic.ru/static/app/logo_ru.jpg" />
+<link rel="shortcut icon" type="image/ico" href="http://st7.gisstatic.ru/favicon2.ico" />
+<link rel="icon" type="image/ico" href="http://st7.gisstatic.ru/favicon2.ico" />
+<link rel="apple-touch-icon" href='http://st5.gisstatic.ru/static/v5/images/favicons/ios/default_icon_60x60.png'>
+<link rel="apple-touch-icon" sizes="57x57" href='http://st7.gisstatic.ru/static/v5/images/favicons/ios/icon_57.png'>
+<link rel="apple-touch-icon" sizes="72x72" href='http://st8.gisstatic.ru/static/v5/images/favicons/ios/icon_72.png'>
+<link rel="apple-touch-icon" sizes="76x76" href='http://st4.gisstatic.ru/static/v5/images/favicons/ios/icon_76.png'>
+<link rel="apple-touch-icon" sizes="114x114" href='http://st6.gisstatic.ru/static/v5/images/favicons/ios/icon_114.png'>
+<link rel="apple-touch-icon" sizes="120x120" href='http://st4.gisstatic.ru/static/v5/images/favicons/ios/icon_120.png'>
+<link rel="apple-touch-icon" sizes="144x144" href='http://st4.gisstatic.ru/static/v5/images/favicons/ios/icon_144.png'>
+<link rel="apple-touch-icon" sizes="152x152" href='http://st4.gisstatic.ru/static/v5/images/favicons/ios/icon_152.png'>
+<link rel="shortcut icon" sizes="196x196" href='http://st7.gisstatic.ru/static/v5/images/favicons/android/default-highres-icon.png'>
+<link rel="shortcut icon" sizes="128x128"  href='http://st4.gisstatic.ru/static/v5/images/favicons/android/icon_128.png'>
+<link rel="shortcut icon" sizes="96x96"  href='http://st4.gisstatic.ru/static/v5/images/favicons/android/icon_for_xhdpi.png'>
+<link rel="shortcut icon" sizes="72x72"  href='http://st7.gisstatic.ru/static/v5/images/favicons/android/icon_for_hdpi.png'>
+<link rel="shortcut icon" sizes="48x48"  href='http://st4.gisstatic.ru/static/v5/images/favicons/android/icon_for_mdpi.png'>
+<!--[if gte IE 9]>
+<meta name="application-name" content="GISMETEO.RU"/>
+<meta name="msapplication-window" content="width=1044;height=660"/>
+<meta name="msapplication-tooltip" content="GISMETEO.RU" />
+<meta name="msapplication-starturl" content="/" />
+<meta name="msapplication-navbutton-color" content="#009dff" />
+<meta name="msapplication-task" content="name=Главная страница;action-uri=/;icon-uri=http://st7.gisstatic.ru/favicon2.ico"/>
+<meta name="msapplication-task" content="name=Карты;action-uri=/map/catalog/;icon-uri=http://st6.gisstatic.ru/static/images/pinnedsite/maps.ico"/>
+<meta name="msapplication-task" content="name=Авиа;action-uri=/avia/;icon-uri=http://st6.gisstatic.ru/static/images/pinnedsite/avia.ico"/>
+<meta name="msapplication-task" content="name=Новости;action-uri=/news/;icon-uri=http://st6.gisstatic.ru/static/images/pinnedsite/news.ico"/>
+<meta name="msapplication-task" content="name=Информеры;action-uri=/informers/;icon-uri=http://st4.gisstatic.ru/static/images/pinnedsite/informers.ico"/>
+<style type="text/css">
+.gradient {filter: none;}
+</style>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://st8.gisstatic.ru/static/compressed/origin_f6db8af0.css" />
+<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://st7.gisstatic.ru/static/compressed/origin_f8070a16.css" /><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://st5.gisstatic.ru/static/compressed/origin_15930aa0.css" /><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://st8.gisstatic.ru/static/compressed/origin_f7f80c2d.css" /><![endif]-->
+<script type="text/javascript">
+var currentLang='ru';
+var my_city_id='5026';
+</script>
+<script type="text/javascript" src="http://st6.gisstatic.ru/static/compressed/origin_07da31e5.js"></script>
+<!--[if gte IE 9]><script type="text/javascript" src="http://st7.gisstatic.ru/static/compressed/origin_a5212c08.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="http://st5.gisstatic.ru/static/compressed/origin_f18a84d7.js"></script><![endif]-->
+</head>
+<body class="measure c ms torr" itemscope itemtype="http://schema.org/Product">
+<script type=text/javascript>
+(function($){
+gis.static_hash='9849e';
+})(jQuery);
+</script>
+<!-- Gismeteo Adriver banner TOP -->
+<div id="ad-top-preload" style="display:none;">
+<script type="text/javascript">
+gis.ad.top = {
+  to: 'ad-top',
+  g_rtb_yandex_page_id: 'R-130942-1',
+  ar_duo: Math.floor(Math.random()*10+1),
+  callback:function(){
+  	
+		// yandex_rtb
+		(function(w, d, n, s, t) {
+		    w[n] = w[n] || [];
+		    w[n].push(function() {
+		        Ya.Context.AdvManager.render({
+		            blockId: gis.ad.top.g_rtb_yandex_page_id,
+		            renderTo: gis.ad.top.to,
+		            async: true
+		        },
+		         function () { gis.ad.top.callback_adriver(); }
+		        );
+		    });
+		    t = d.getElementsByTagName("script")[0];
+		    s = d.createElement("script");
+		    s.type = "text/javascript";
+		    s.src = "//an.yandex.ru/system/context.js";
+		    s.async = true;
+		    t.parentNode.insertBefore(s, t);
+		})(window, window.document, "yandexContextAsyncCallbacks");
+		
+	},
+	callback_adriver:function(){
+		var adriver_par = {sid:48250, bt:52, bn:1, pz:gis.ad.top.ar_duo, keyword:"eastern_europe;russia;r258;sr2185;c5026", custom:{"1":"sun","2":"M10-M5","110":screen.width,"111":screen.height}};
+		if ($('#page.Main').length > 0 ) adriver_par.sz = 'main';
+		new adriver(gis.ad.top.to, adriver_par);
+	},
+	callback_default: function(){
+		//gis.CallbackDefault({"position":"728x90_top", "url":window.location.toString()});
+	}
+};
+
+if(typeof(gis.ad.top_sync)=='undefined' || !document.getElementById(gis.ad.top_sync.from) ){
+	gis.ad.top.callback();
+}else{
+	gis.ad.top_sync.start();
+}
+</script>
+</div>
+<!-- Gismeteo banner RIGHT + Я знаю -->
+<div id="ad-right-preload" style="display:none;">
+<script type="text/javascript">
+gis.ad.right = {
+  to: "ad-right-fcontent",
+  container: "ad-right",
+  g_rtb_yandex_page_id: 'R-130942-12',
+  callback:function(){
+		
+		// yandex_rtb
+		(function(w, d, n, s, t) {
+		    w[n] = w[n] || [];
+		    w[n].push(function() {
+		        Ya.Context.AdvManager.render({
+		            blockId: gis.ad.right.g_rtb_yandex_page_id,
+		            renderTo: gis.ad.right.to,
+		            async: true
+		        },
+		         function(){ gis.ad.right.callback_adriver(); }
+		        );
+		    });
+		    t = d.getElementsByTagName("script")[0];
+		    s = d.createElement("script");
+		    s.type = "text/javascript";
+		    s.src = "//an.yandex.ru/system/context.js";
+		    s.async = true;
+		    t.parentNode.insertBefore(s, t);
+		})(window, window.document, "yandexContextAsyncCallbacks");
+	
+	},
+  callback_adriver: function(){
+		$('#'+gis.ad.right.container).find('.fcontent').attr('id', gis.ad.right.to);
+	  	var adriver_par = {sid:48250, bt:52, bn:2, pz:gis.ad.top.ar_duo, keyword:"eastern_europe;russia;r258;sr2185;c5026", custom:{"1":"sun","2":"M10-M5","110":screen.width,"111":screen.height}};
+	  	if ($('#page.Main').length > 0 ) adriver_par.sz = 'main';
+			new adriver(gis.ad.right.to, adriver_par);
+	}
+};
+if( typeof(gis.ad.top_sync)=='undefined' || !document.getElementById(gis.ad.top_sync.from) ){
+	gis.ad.right.callback();
+}
+</script>
+</div>
+<!--LiveInternet counter-->
+<script type="text/javascript">
+<!--
+new Image().src = "http://counter.yadro.ru/hit?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80))+";"+Math.random();
+//-->
+</script>
+<!--/LiveInternet-->
+<div id="page" class="narrow Weather">
+<script type=text/javascript>
+var page = $("#page");
+if(!page.hasClass('frozen'))
+	page.toggleClass("narrow", $(window).width() < 1200);
+</script>
+<div id="canvas" class="clearfix">
+<!-- canvas begin -->
+	<div id="rbc"><noindex>
+<div class="rframe"><div class="fcontent">
+													<h2><a href="http://top.rbc.ru/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_headline" target="_blank" rel="nofollow">Новости РБК</a></h2>
+		<div class="section"><ul>
+		
+					<li class="first"><a rel="nofollow" href="http://top.rbc.ru/politics/10/02/2015/54d9ca2c9a7947d055f952c2?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top1" target="_blank"><img src="http://st5.gisstatic.ru/images/news/5f053a56e6e1a9d281f8153b499f58ae.jpg" width="64">Москва сообщила, каков будет ее ответ на поставки оружия Украине</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://www.rbc.ru/rbcfreenews/54d4709f9a7947c24b1f26a2?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top2" target="_blank">СМИ узнали суть тайного предложения Путина по Украине</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://top.rbc.ru/politics/10/02/2015/54d9cb109a7947d11d07bcdf?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top3" target="_blank">Нацгвардия Украины объявила о переходе в наступление под Мариуполем</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://top.rbc.ru/politics/09/02/2015/54d898269a7947509719b8dc?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top4" target="_blank">Киев: За выходные на Украину перебросили 1,5 тыс. военных из РФ</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://realty.rbc.ru/articles/29/01/2015/562949993819755.shtml?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top5" target="_blank">М. Хуснуллин: «С покупкой квартир в Москве стоит воздержаться до марта»</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://www.autonews.ru/autobusiness/news/1796501/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top6" target="_blank">Бензин по 50 рублей: до подорожания осталось три недели</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://realty.rbc.ru/articles/30/01/2015/562949993835997.shtml?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top7" target="_blank">Валютный кризис: как изменятся цены на жилье и стройматериалы</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://style.rbc.ru/news/luxury/2014/12/17/19953/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top8" target="_blank">Город роскошный и ужасный: За что иностранцы ненавидят Москву</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://daily.rbc.ru/opinions/politics/10/02/2015/54d8bb779a79475f03e25c26?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top9" target="_blank">Россия в штопоре: какие альтернативы остались у Путина</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://top.rbc.ru/economics/09/02/2015/54d848ca9a794732755a8954?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top10" target="_blank">Путин предупредил об угрозе «экономического шока»</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://www.rbc.ru/rbcfreenews/54d8f4739a79478b1dcb9091?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top11" target="_blank">ДНР: Тысячи украинских военных попали в окружение</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://www.rbc.ru/rbcfreenews/54d477489a7947d99239cbab?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_top12" target="_blank">Кремль прокомментировал сообщения о «болезни» Путина</a></li>
+			
+							</ul></div>
+		</div></div>
+		<div class="rframe"><div class="fcontent">
+										<h2><a href="http://autonews.ru/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_headline" target="_blank" rel="nofollow">Autonews.Ru</a></h2>
+		<div class="section"><ul>
+		
+					<li class="first"><a rel="nofollow" href="http://www.autonews.ru/automarket_news/news/1796974/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_auto1" target="_blank"><img src="http://st8.gisstatic.ru/images/news/c4a9f18af6ccf6776173ae0966cf28ad.jpg" width="64">Lada Vesta: все подробности о главной новинке года</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://www.autonews.ru/automarket_news/news/1797223/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_auto2" target="_blank">В Подмосковье в одной аварии разбилось 78 машин</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://www.autonews.ru/autobusiness/news/1796243/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_auto3" target="_blank">Для водителей введут новые штрафы. Таблица</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://www.autonews.ru/automarket_news/news/1797202/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_auto4" target="_blank">Новую модель Lada тайно засняли на заводе</a></li>
+			
+							</ul></div>
+		</div></div>
+		<div class="rframe"><div class="fcontent">
+										<h2><a href="http://sport.rbc.ru/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_headline" target="_blank" rel="nofollow">Спорт</a></h2>
+		<div class="section"><ul>
+		
+					<li><a rel="nofollow" href="http://sport.rbc.ru/article/249391/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_sport1" target="_blank">Как лучшей фигуристке России нанесли 17 ножевых ранений</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://sport.rbc.ru/article/249655/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_sport2" target="_blank">«Арсенал» купил Андрея Аршавина за секунды до крайнего срока</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://sport.rbc.ru/article/246637/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_sport3" target="_blank">Ошибка американцев с гимном России взорвала Интернет</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://sport.rbc.ru/article/249489/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_sport4" target="_blank">Российского хоккеиста не пустили на прием к президенту США Бараку Обаме</a></li>
+			
+		
+					<li><a rel="nofollow" href="http://sport.rbc.ru/article/248942/?utm_source=gismeteo&utm_medium=news&utm_campaign=gism_sport5" target="_blank">У России отнимают олимпийское золото</a></li>
+			
+</ul></div>
+</div></div>
+</noindex>
+</div>
+	
+<div id="header" class="b728x90">
+<div class="rframe"><div class="fcontent">
+	<a href="/" id="logo" class="png"><div class="school-clouds"><div class="cloud1"></div><div class="cloud2"></div><div class="cloud3"></div><div class="school-logo"><i>прогноз погоды</i></div></div></a>
+	<div id="ad-top" class="nooverflow"></div>
+	<div id="menu" class="wrap">
+<ul>
+   <li class="last ifie ib sprite"><a onclick="return false;"><b class="flag"><span class="ru"></span>&nbsp;</b></a><span class="png arrow"></span>
+   	<ul class="mainsubmenu langs">
+									<li class="active">
+													<b class="flag"><span class="sprite ru"></span>Россия (по-русски)</b>
+										</li>
+												<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.ua/"><span class="ua"></span>Украина (по-русски)</a>
+												</noindex>			</li>
+											<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.ua/ua/"><span class="ua"></span>Україна (українською)</a>
+												</noindex>			</li>
+												<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.lt/"><span class="lt"></span>Lietuva (lietuviškai)</a>
+												</noindex>			</li>
+											<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.lt/ru/"><span class="lt"></span>Литва (по-русски)</a>
+												</noindex>			</li>
+												<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.by/"><span class="by"></span>Беларусь (по-русски)</a>
+												</noindex>			</li>
+												<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.com/"><span class="euro"></span>International (english)</a>
+												</noindex>			</li>
+												<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.md/"><span class="md"></span>Молдова (по-русски)</a>
+												</noindex>			</li>
+											<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.md/ro/"><span class="md"></span>Moldova (română)</a>
+												</noindex>			</li>
+												<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.lv/"><span class="lv"></span>Latvija (latviski)</a>
+												</noindex>			</li>
+											<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.lv/ru/"><span class="lv"></span>Латвия (по-русски)</a>
+												</noindex>			</li>
+												<li>
+				<noindex>														<a class="flag" rel="nofollow" href="http://www.gismeteo.kz/"><span class="kz"></span>Казахстан (по-русски)</a>
+												</noindex>			</li>
+			   	</ul>
+   </li>
+   <li class="prev ifie ib"><a onclick="return false;">&deg;C</a><span class="png arrow"></span>
+   	<ul class="mainsubmenu measures">
+   		<li class="active"><input type=radio name=meas_chk meas="c ms torr" id=meas_chk_0 checked />&nbsp;&deg;C, м/с, мм рт. ст.</li>
+   		<li><input type=radio name=meas_chk meas="f mih inch" id=meas_chk_1 />&nbsp;&deg;F, миль/ч, д. рт. ст.</li>
+   	</ul>
+   </li>
+		
+												 
+	 	 		<li class="beta"><a href="http://beta.gismeteo.ru/weather-voronezh-5026/"><img src="http://st8.gisstatic.ru/static/images/beta-white.png"></a></li>
+	 		<li class="flakes"><a href="http://www.gismeteo.ru/cards/flakes/"><img src="http://st8.gisstatic.ru/static/images/snowflakes_menu.png"></a></li>
+	 	 
+	    <li class="main"><a href="/">Главная</a></li>
+   <li><a href="/map/catalog/">Карты</a></li>
+   <li class=""><a class="old" href="http://www.gismeteo.ru/news/">Новости</a></li>
+   <li>
+	   		   <a class="old" href="/month/5026/">Месяц</a>
+	         </li>
+   <li><a href="http://www.gismeteo.ru/informers/">Информеры</a></li>
+   <li id="tourism_button"><a rel="nofollow" href="http://tourism.gismeteo.ru/">Туризм</a></li>      			<li><a href="http://www.gismeteo.ru/soft/">Приложения</a></li>
+       
+      <li class="search search_holder"><div class="main_search_cont"><input type=text placeholder="Поиск местоположения" title="Поиск местоположения" class="main_search" id="main_search" value="" /></div></li>
+   <li class="prev ifnoie"><a onclick="return false;">&deg;C</a><span class="png arrow"></span>
+   	<ul class="mainsubmenu measures">
+   		<li class="active"><input type=radio name=meas_chk meas="c ms torr" id=meas_chk_0 checked />&nbsp;&deg;C, м/с, мм рт. ст.</li>
+   		<li><input type=radio name=meas_chk meas="f mih inch" id=meas_chk_1 />&nbsp;&deg;F, миль/ч, д. рт. ст.</li>
+   	</ul>
+   </li>
+</ul>
+</div>
+<script type=text/javascript>
+var current_city_id = 5026;
+$(document).ready(function(){
+	gis.suggest.url_prefix = '/';
+	gis.suggest.url = '/ajax/suggest/';
+	gis.suggest.dataType='json';
+	gis.suggest.cache=true;
+	gis.suggest.labels = {
+		no_results: 'Ничего не найдено. Проверьте &mdash; нет ли ошибки.',
+		search: 'Поиск местоположения',
+		all_results: 'Все результаты',
+		countries: 'Страны',
+		regions: 'Области',
+		cities: 'Пункты',
+		airports: 'Аэропорты'
+	};
+	gis.suggest.assign_labels();
+	gis.suggest.init($('#main_search'), 'ru');
+});
+</script></div></div>
+</div>
+<div id="top_wide"></div><div class="adv_ico"></div>
+<div id="content" class="wrap">
+<!-- content begin -->
+<div class="cright">
+	<div class="rframe" id="ad-right"><div class="fcontent" id="ad-right-fcontent">
+			</div></div>
+	<div id="adriver_sync"></div>
+	
+		<div class="rframe" id="ad-gis-news"><div class="fcontent">
+		<noindex>
+<h2 class="pict"><a href="http://www.vesti.ru/" target="_blank" rel="nofollow"><img src="http://st4.gisstatic.ru/images/files/news_images/vesti-logo.png" height="12"></a></h2>
+<div class="section gis">
+	<div id="holder"><table>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2343637" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st7.gisstatic.ru/images/news/d2d53fdcaa8dc56d9c9617158e871c52.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2343637" rel="nofollow"><span>Знаменитая &quot;Королева Тихого океана&quot; вышла на свободу</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2341736&cid=520" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st4.gisstatic.ru/images/news/e0858da1365eaab962edd4fdd38a69ff.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2341736&cid=520" rel="nofollow"><span>Джоли и Питт в седьмой раз стали родителями. Фото</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2340753&cid=520" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st8.gisstatic.ru/images/news/ed08ccfb091bd4fc1492266daa330322.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2340753&cid=520" rel="nofollow"><span>Ягодицы Мадонны и другие модные провалы &quot;Грэмми&quot;. Фото</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2334246&cid=520" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st6.gisstatic.ru/images/news/7424d51cc15a8d88388f7ac7d486c898.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2334246&cid=520" rel="nofollow"><span>Нижнее белье спасло женщину от гибели</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2341345&cid=520" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st4.gisstatic.ru/images/news/315e126bb2f04a737e424daffd186bd1.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2341345&cid=520" rel="nofollow"><span>Серийного педофила задержали спустя 30 лет поисков. Видео</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2341253" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st8.gisstatic.ru/images/news/c4ff3fece10627052c2b73defbbfe730.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2341253" rel="nofollow"><span>В Москве прооперировали знаменитого актера</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2333887&cid=520" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st4.gisstatic.ru/images/news/ed291b657d1bdd86be822e9f13838a89.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2333887&cid=520" rel="nofollow"><span>Самого красивого преступника в мире посадили на два года</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://realty.vesti.ru/news/show/id/11901" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st6.gisstatic.ru/images/news/8c271a9ba41d936e83c6467e52875713.jpg"></a>
+		<a target="_blank" href="http://realty.vesti.ru/news/show/id/11901" rel="nofollow"><span>Мавзолей закрыли на профилактику - вождю пора менять костюм</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2339235" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st5.gisstatic.ru/images/news/739a7e93379fb243e280a8e2909aad55.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2339235" rel="nofollow"><span>Известного спортсмена избили вместе с женой и тещей</span></a>
+	</td></tr>
+			<tr><td>
+		<a href="http://www.vesti.ru/m/doc.html?id=2333277" target="_blank" rel="nofollow"><img width="70" height="50" src="http://st7.gisstatic.ru/images/news/bdf6c5f48bc70b5b331bbc4bae285584.jpg"></a>
+		<a target="_blank" href="http://www.vesti.ru/m/doc.html?id=2333277" rel="nofollow"><span>От экранов не оттащить даже взрослых мужчин: самый ожидаемый квест года покорил россиян</span></a>
+	</td></tr>
+		</table></div>
+</div>
+</noindex>
+	</div></div>
+	<div class="rframe" id="information"><div class="fcontent">
+		<h2>Информация</h2>
+<ul class="section">
+<li class="icon"><a href="/forweb.html">Предоставление погодных данных</a></li>
+<li class="icon"><a href="/agreement/">Соглашение об использовании данных с сайта</a></li>
+<li class="icon"><a href="/adv.html">О рекламе на сайте</a></li>
+<li class="icon"><a href="/faq.html">Часто задаваемые вопросы (FAQ)</a></li>
+<li class="icon"><a href="/feedback/">Гостевая книга</a></li>
+<li class="icon"><a href="/sitemap/">Карта сайта</a></li>
+<li class="icon"><a href="/contacts.html">Контакты</a></li>
+</ul>
+	
+	</div></div>
+</div>	
+<div class="cleft">
+<!-- content left begin -->
+<div class="wrap">
+	<div class="rframe" id="weather"><div class="fcontent">	
+	
+<div class="header">
+	<span>Погода</span>
+		
+</div>
+<link rel="stylesheet" type="text/css" href="/static/adv/mitsubishi/mitsubishi.css" />
+<style type="text/css">.mitsubishi_w .mitsubishi{left: 0;}</style>
+<!-- AdRiver code START. Type:AjaxJS Site: Gismeteo PZ: 0 BN: 6 -->
+<div class="mitsubishi"><div id="adriver_banner_734294185"></div></div>
+<script type=text/JavaScript>
+gis.ad.cur_w = {
+	to: 'adriver_banner_734294185',
+	callback: function(){
+		jQuery(document.body).addClass('mitsubishi_w');
+	}
+}
+var Adriver_260x90 = new adriver(gis.ad.cur_w.to, {sid:48250, bt:52, bn:6, keyword:"eastern_europe;russia;r258;sr2185;c5026", custom:{"1":"sun","2":"M10-M5","110":screen.width,"111":screen.height}});
+Adriver_260x90.onLoadComplete(function () {if( this.reply.adid ) { gis.ad.cur_w.callback(); }});
+</script>
+<!-- AdRiver code END -->
+<div class="section higher">
+	<h3 class="typeM">Воронеж</h3>
+	<div class="scity" xmlns:v="http://rdf.data-vocabulary.org/#">
+		<span class="crumb" typeof="v:Breadcrumb"><a href="/catalog/russia/2185/" rel="v:url" property="v:title">Воронеж</a></span>, <span class="crumb" typeof="v:Breadcrumb"><a href="/catalog/russia/258/" rel="v:url" property="v:title">Воронежская область</a></span>, <span typeof="v:Breadcrumb"><a href="/catalog/russia/" rel="v:url" property="v:title">Россия</a></span>
+	</div>
+		<dl class="cloudness">
+		<dt class="png" title="Малооблачно" style="background-image: url(http://st8.gisstatic.ru/static/images/icons/new/n.moon.c2.png)"><br /></dt>
+		<dd><table><tr><td>Малооблачно</td></tr></table></dd>
+	</dl>
+	<div class="temp">
+		<dd class='value m_temp c'>&minus;7<span class="meas">&deg;C</span></dd>
+		<dd class='value m_temp f' style='display:none'>+19<span class="meas">&deg;F</span></dd>
+	</div>
+		<div class="wicon wind">
+		<dl title="Ветер северный" class="wicon wind1">
+			<dd class='value m_wind ms' style='display:inline'>2<span class="unit">м/с</span></dd>
+			<dd class='value m_wind mih' style='display:none'>4<span class="unit">миль/ч</span></dd>
+			<dd class='value m_wind kmh' style='display:none'>7<span class="unit"></span></dd>
+			<dt>С</dt>
+		</dl>
+	</div>
+	<div class="wicon barp" title="Давление">
+		<dd class='value m_press torr'>752<span class="unit">мм рт. ст.</span></dd>
+		<dd class='value m_press hpa' style='display:none'>1003<span class="unit">гПа</span></dd>
+		<dd class='value m_press inch' style='display:none'>30<span class="unit">д. рт. ст.</span></dd>
+	</div>
+	<div class="wicon hum" title="Влажность">77<span class="unit">%<span class="meas_hum_txt hidden">&nbsp;влажн.</span></span></div>
+	<div class="wicon water" title="Температура воды">
+		<dd class="value m_temp c">3<span class="meas unit">&deg;C</span><span class="unit">вода</span></dd>
+		<dd class="value m_temp f" style='display:none'>37<span class="meas unit">&deg;F</span><span class="unit">вода</span></dd>
+	</div>
+		<div class="wrap f_link">
+		<span class="icon date" data-obs-time="2015-02-10 15:00:00" data-hr="">
+					10 февраля 2015 18:00				</span>
+					<a class="icon fcast hidden" href="/city/daily/5026/">Прогноз</a>
+			</div>
+</div><!--block expire GMT+0: 2015-02-10 16:59:33-->	</div></div>
+	
+				<div class="rframe" id="weather-daily"><div class="fcontent">
+		<h2 class="wtitle"><span>Прогноз</span>
+			<span class="title sel">Вт&ndash;Чт</span>
+				<a href="/city/daily/5026/2/">Чт&ndash;Сб</a>
+				<a href="/city/daily/5026/4/">Сб&ndash;Пн</a>
+				<a href="/city/daily/5026/6/">Пн&ndash;Ср</a>
+				<a href="/city/weekly/5026/">2 недели</a>
+		<a href="/month/5026/">Месяц</a>
+					<a href="/ajax/print/5026/short/" class="icon wtprint" rel="nofollow">&nbsp;</a>
+			
+</h2>
+<div class="section">
+	<ul class="wtools">
+		<li class="near_banner"></li>		<li><a title="Выбрать этот город, как Мой город" href="/ajax/mycity/?city=5026" class="jAjax semitransp" rel="nofollow" onclick="return false;">Мой город</a></li>
+					</ul>
+	<h1 class="wtitle">Погода в Воронеже</h1>
+</div>
+<div class="wtabs wrap">
+	<span class="prev"></span>
+			<a href="/city/daily/5026/2/" class="next"></a>
+	
+		<div class="wtab swtab" id="tab_wdaily1">
+		<img class="cloudness png" src="http://st6.gisstatic.ru/static/images/icons/new/d.sun.c4.png" alt="" width="55" height="55">
+		<dl class="date wrap"><dt>ВТ</dt><dd>10.02</dd></dl>
+		<div class="temp"><span class='value m_temp c'>&minus;13</span><span class='value m_temp f' style='display:none'>+9</span>..<em><span class='value m_temp c'>&minus;7</span><span class='value m_temp f' style='display:none'>+19</span></em></div>
+	</div>
+		<div class="wtab" id="tab_wdaily2">
+		<img class="cloudness png" src="http://st7.gisstatic.ru/static/images/icons/new/d.sun.c4.s1.png" alt="" width="55" height="55">
+		<dl class="date wrap"><dt>СР</dt><dd>11.02</dd></dl>
+		<div class="temp"><span class='value m_temp c'>&minus;17</span><span class='value m_temp f' style='display:none'>+1</span>..<em><span class='value m_temp c'>&minus;11</span><span class='value m_temp f' style='display:none'>+12</span></em></div>
+	</div>
+		<div class="wtab" id="tab_wdaily3">
+		<img class="cloudness png" src="http://st7.gisstatic.ru/static/images/icons/new/d.sun.c4.s1.png" alt="" width="55" height="55">
+		<dl class="date wrap"><dt>ЧТ</dt><dd>12.02</dd></dl>
+		<div class="temp"><span class='value m_temp c'>&minus;16</span><span class='value m_temp f' style='display:none'>+3</span>..<em><span class='value m_temp c'>&minus;1</span><span class='value m_temp f' style='display:none'>+30</span></em></div>
+	</div>
+</div>
+<div class="wsection wdata">
+<table>
+<thead>
+	<th></th>
+	<th colspan="2" class="wide">Характеристики погоды, атмосферные явления</th>
+	<th class="temp">Tемпература воздуха,&nbsp;&deg;<span class="units m_temp c">C</span><span class="units m_temp f" style='display:none'>F</span></th>
+	<th class="preassure">Атм.&nbsp;давл., <span class="units m_press torr">мм рт. ст.</span><span class="units m_press hpa" style='display:none'>гПа</span><span class="units m_press inch" style='display:none'>д. рт. ст.</span></th>
+	<th class="speed">Ветер,<br> <span class="units m_wind ms">м/с</span><span class="units m_wind mih" style='display:none'>миль/ч</span><span class="units m_wind kmh" style='display:none'></span></td>
+	<th class="humm">Влажность  воздуха,&nbsp;%</th>
+	<th class="comfort">Ощущается, &deg;<span class="units m_temp c">C</span><span class="units m_temp f" style='display:none'>F</span></th>
+</thead>
+<tbody id="tbwdaily1">
+								<tr class="wrow" id="wrow-2015-02-10-03">
+	<th title="Фактические данные от 2015-02-10 00:00, UTC: 2015-02-10 0:00, Local: 2015-02-10 3:00">
+		Ночь	</th>
+	<td class="clicon"><img class="png" src="http://st8.gisstatic.ru/static/images/icons/new/n.moon.c2.png" alt="Малооблачно" title="Малооблачно" width="55" height="55"></td>
+	<td class="cltext">Малооблачно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;12</span><span class='value m_temp f' style='display:none'>+10</span></td>
+	<td><span class='value m_press torr'>744</span><span class='value m_press inch' style='display:none'>29</span><span class='value m_press hpa' style='display:none'>992</span></td>
+	<td><dl class="wind"><dt class="wicon wind7" title="Западный">З</dt><dd><span class='value m_wind ms'>2</span><span class='value m_wind mih' style='display:none'>4</span><span class='value m_wind kmh' style='display:none'>7</span></dd></dl></td>
+	<td>90</td>
+	<td><span class='value m_temp c'>&minus;14</span><span class='value m_temp f' style='display:none'>+7</span></td>
+	</tr>
+								<tr class="wrow" id="wrow-2015-02-10-09">
+	<th title="Фактические данные от 2015-02-10 06:00, UTC: 2015-02-10 6:00, Local: 2015-02-10 9:00">
+		Утро	</th>
+	<td class="clicon"><img class="png" src="http://st6.gisstatic.ru/static/images/icons/new/d.sun.c4.png" alt="Пасмурно" title="Пасмурно" width="55" height="55"></td>
+	<td class="cltext">Пасмурно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;12</span><span class='value m_temp f' style='display:none'>+10</span></td>
+	<td><span class='value m_press torr'>748</span><span class='value m_press inch' style='display:none'>29</span><span class='value m_press hpa' style='display:none'>997</span></td>
+	<td><dl class="wind"><dt class="wicon wind1" title="Северный">С</dt><dd><span class='value m_wind ms'>1</span><span class='value m_wind mih' style='display:none'>2</span><span class='value m_wind kmh' style='display:none'>4</span></dd></dl></td>
+	<td>90</td>
+	<td><span class='value m_temp c'>&minus;12</span><span class='value m_temp f' style='display:none'>+10</span></td>
+	</tr>
+								<tr class="wrow" id="wrow-2015-02-10-15">
+	<th title="Фактические данные от 2015-02-10 12:00, UTC: 2015-02-10 12:00, Local: 2015-02-10 15:00">
+		День	</th>
+	<td class="clicon"><img class="png" src="http://st6.gisstatic.ru/static/images/icons/new/d.sun.png" alt="Ясно" title="Ясно" width="55" height="55"></td>
+	<td class="cltext">Ясно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;7</span><span class='value m_temp f' style='display:none'>+19</span></td>
+	<td><span class='value m_press torr'>750</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1000</span></td>
+	<td><dl class="wind"><dt class="wicon wind1" title="Северный">С</dt><dd><span class='value m_wind ms'>3</span><span class='value m_wind mih' style='display:none'>7</span><span class='value m_wind kmh' style='display:none'>11</span></dd></dl></td>
+	<td>83</td>
+	<td><span class='value m_temp c'>&minus;10</span><span class='value m_temp f' style='display:none'>+14</span></td>
+	</tr>
+								<tr class="wrow forecast" id="wrow-2015-02-10-21">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-10 18:00, Local: 2015-02-10 21:00">
+		Вечер	</th>
+	<td class="clicon"><img class="png" src="http://st8.gisstatic.ru/static/images/icons/new/n.moon.c4.png" alt="Пасмурно" title="Пасмурно" width="55" height="55"></td>
+	<td class="cltext">Пасмурно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;13</span><span class='value m_temp f' style='display:none'>+9</span></td>
+	<td><span class='value m_press torr'>752</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1003</span></td>
+	<td><dl class="wind"><dt class="wicon wind1" title="Северный">С</dt><dd><span class='value m_wind ms'>2</span><span class='value m_wind mih' style='display:none'>4</span><span class='value m_wind kmh' style='display:none'>7</span></dd></dl></td>
+	<td>94</td>
+	<td><span class='value m_temp c'>&minus;16</span><span class='value m_temp f' style='display:none'>+3</span></td>
+	</tr>
+	</tbody>
+<tbody id="tbwdaily2" style="display: none;">
+								<tr class="wrow forecast" id="wrow-2015-02-11-03">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-11 0:00, Local: 2015-02-11 3:00">
+		Ночь	</th>
+	<td class="clicon"><img class="png" src="http://st8.gisstatic.ru/static/images/icons/new/n.moon.c4.png" alt="Пасмурно" title="Пасмурно" width="55" height="55"></td>
+	<td class="cltext">Пасмурно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;15</span><span class='value m_temp f' style='display:none'>+5</span></td>
+	<td><span class='value m_press torr'>753</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1004</span></td>
+	<td><dl class="wind"><dt class="wicon wind1" title="Северный">С</dt><dd><span class='value m_wind ms'>2</span><span class='value m_wind mih' style='display:none'>4</span><span class='value m_wind kmh' style='display:none'>7</span></dd></dl></td>
+	<td>87</td>
+	<td><span class='value m_temp c'>&minus;17</span><span class='value m_temp f' style='display:none'>+1</span></td>
+	</tr>
+								<tr class="wrow forecast" id="wrow-2015-02-11-09">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-11 6:00, Local: 2015-02-11 9:00">
+		Утро	</th>
+	<td class="clicon"><img class="png" src="http://st7.gisstatic.ru/static/images/icons/new/d.sun.c4.s1.png" alt="Пасмурно, небольшой снег" title="Пасмурно, небольшой снег" width="55" height="55"></td>
+	<td class="cltext">Пасмурно, небольшой снег</td>
+	<td class="temp"><span class='value m_temp c'>&minus;16</span><span class='value m_temp f' style='display:none'>+3</span></td>
+	<td><span class='value m_press torr'>755</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1007</span></td>
+	<td><dl class="wind"><dt class="wicon wind8" title="Северо-западный">СЗ</dt><dd><span class='value m_wind ms'>1</span><span class='value m_wind mih' style='display:none'>2</span><span class='value m_wind kmh' style='display:none'>4</span></dd></dl></td>
+	<td>86</td>
+	<td><span class='value m_temp c'>&minus;16</span><span class='value m_temp f' style='display:none'>+3</span></td>
+	</tr>
+								<tr class="wrow forecast" id="wrow-2015-02-11-15">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-11 12:00, Local: 2015-02-11 15:00">
+		День	</th>
+	<td class="clicon"><img class="png" src="http://st6.gisstatic.ru/static/images/icons/new/d.sun.png" alt="Ясно" title="Ясно" width="55" height="55"></td>
+	<td class="cltext">Ясно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;11</span><span class='value m_temp f' style='display:none'>+12</span></td>
+	<td><span class='value m_press torr'>755</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1007</span></td>
+	<td><dl class="wind"><dt class="wicon wind8" title="Северо-западный">СЗ</dt><dd><span class='value m_wind ms'>1</span><span class='value m_wind mih' style='display:none'>2</span><span class='value m_wind kmh' style='display:none'>4</span></dd></dl></td>
+	<td>80</td>
+	<td><span class='value m_temp c'>&minus;11</span><span class='value m_temp f' style='display:none'>+12</span></td>
+	</tr>
+								<tr class="wrow forecast" id="wrow-2015-02-11-21">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-11 18:00, Local: 2015-02-11 21:00">
+		Вечер	</th>
+	<td class="clicon"><img class="png" src="http://st8.gisstatic.ru/static/images/icons/new/n.moon.c4.png" alt="Пасмурно" title="Пасмурно" width="55" height="55"></td>
+	<td class="cltext">Пасмурно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;17</span><span class='value m_temp f' style='display:none'>+1</span></td>
+	<td><span class='value m_press torr'>756</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1008</span></td>
+	<td><dl class="wind"><dt class="wicon wind7" title="Западный">З</dt><dd><span class='value m_wind ms'>3</span><span class='value m_wind mih' style='display:none'>7</span><span class='value m_wind kmh' style='display:none'>11</span></dd></dl></td>
+	<td>89</td>
+	<td><span class='value m_temp c'>&minus;21</span><span class='value m_temp f' style='display:none'>-6</span></td>
+	</tr>
+	</tbody>
+<tbody id="tbwdaily3" style="display: none;">
+								<tr class="wrow forecast" id="wrow-2015-02-12-03">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-12 0:00, Local: 2015-02-12 3:00">
+		Ночь	</th>
+	<td class="clicon"><img class="png" src="http://st8.gisstatic.ru/static/images/icons/new/n.moon.c4.png" alt="Пасмурно" title="Пасмурно" width="55" height="55"></td>
+	<td class="cltext">Пасмурно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;13</span><span class='value m_temp f' style='display:none'>+9</span></td>
+	<td><span class='value m_press torr'>756</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1008</span></td>
+	<td><dl class="wind"><dt class="wicon wind6" title="Юго-западный">ЮЗ</dt><dd><span class='value m_wind ms'>2</span><span class='value m_wind mih' style='display:none'>4</span><span class='value m_wind kmh' style='display:none'>7</span></dd></dl></td>
+	<td>84</td>
+	<td><span class='value m_temp c'>&minus;16</span><span class='value m_temp f' style='display:none'>+3</span></td>
+	</tr>
+								<tr class="wrow forecast" id="wrow-2015-02-12-09">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-12 6:00, Local: 2015-02-12 9:00">
+		Утро	</th>
+	<td class="clicon"><img class="png" src="http://st7.gisstatic.ru/static/images/icons/new/d.sun.c4.s1.png" alt="Пасмурно, небольшой снег" title="Пасмурно, небольшой снег" width="55" height="55"></td>
+	<td class="cltext">Пасмурно, небольшой снег</td>
+	<td class="temp"><span class='value m_temp c'>&minus;8</span><span class='value m_temp f' style='display:none'>+18</span></td>
+	<td><span class='value m_press torr'>756</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1008</span></td>
+	<td><dl class="wind"><dt class="wicon wind6" title="Юго-западный">ЮЗ</dt><dd><span class='value m_wind ms'>2</span><span class='value m_wind mih' style='display:none'>4</span><span class='value m_wind kmh' style='display:none'>7</span></dd></dl></td>
+	<td>84</td>
+	<td><span class='value m_temp c'>&minus;10</span><span class='value m_temp f' style='display:none'>+14</span></td>
+	</tr>
+								<tr class="wrow forecast" id="wrow-2015-02-12-15">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-12 12:00, Local: 2015-02-12 15:00">
+		День	</th>
+	<td class="clicon"><img class="png" src="http://st6.gisstatic.ru/static/images/icons/new/d.sun.c4.png" alt="Пасмурно" title="Пасмурно" width="55" height="55"></td>
+	<td class="cltext">Пасмурно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;1</span><span class='value m_temp f' style='display:none'>+30</span></td>
+	<td><span class='value m_press torr'>755</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1007</span></td>
+	<td><dl class="wind"><dt class="wicon wind7" title="Западный">З</dt><dd><span class='value m_wind ms'>3</span><span class='value m_wind mih' style='display:none'>7</span><span class='value m_wind kmh' style='display:none'>11</span></dd></dl></td>
+	<td>83</td>
+	<td><span class='value m_temp c'>&minus;3</span><span class='value m_temp f' style='display:none'>+27</span></td>
+	</tr>
+								<tr class="wrow forecast" id="wrow-2015-02-12-21">
+	<th title="Прогноз от 2015-02-10 00:00, UTC: 2015-02-12 18:00, Local: 2015-02-12 21:00">
+		Вечер	</th>
+	<td class="clicon"><img class="png" src="http://st8.gisstatic.ru/static/images/icons/new/n.moon.c4.png" alt="Пасмурно" title="Пасмурно" width="55" height="55"></td>
+	<td class="cltext">Пасмурно</td>
+	<td class="temp"><span class='value m_temp c'>&minus;3</span><span class='value m_temp f' style='display:none'>+27</span></td>
+	<td><span class='value m_press torr'>755</span><span class='value m_press inch' style='display:none'>30</span><span class='value m_press hpa' style='display:none'>1007</span></td>
+	<td><dl class="wind"><dt class="wicon wind7" title="Западный">З</dt><dd><span class='value m_wind ms'>2</span><span class='value m_wind mih' style='display:none'>4</span><span class='value m_wind kmh' style='display:none'>7</span></dd></dl></td>
+	<td>91</td>
+	<td><span class='value m_temp c'>&minus;4</span><span class='value m_temp f' style='display:none'>+25</span></td>
+	</tr>
+	</tbody>
+</table>
+</div>
+<div class="section bottom">
+	<div class="more links links-more">
+					<a class="weather_more" href="/city/hourly/5026/"><span>Почасовой прогноз погоды</span></a>
+			</div>
+	</div>
+		</div></div>
+		<script type=text/javascript>
+	redrawWeatherContent();
+	</script>
+	<!-- MSIE8 Slice -->
+		<div class="hslice" id="34122">
+		<h2 class="entry-title">Gismeteo.RU: Воронеж</h2>
+		<a rel="feedurl" href="http://informer.gismeteo.ru/slice2/xml/34122.xml"></a>
+		</div>
+	<!-- MSIE8 Slice End -->
+		
+	<div class="rframe" id="intown"><div class="fcontent">
+	<h2>В Воронеже</h2>
+<ul class="section">
+					<li class="icon cur"><a href="/city/daily/5026/">Краткий прогноз погоды</a></li>
+				<li class="icon"><a href="/city/hourly/5026/">Почасовой прогноз погоды</a></li>
+		<li class="icon"><a href="/city/weekly/5026/">Погода на 2 недели</a></li>
+		<li class="icon"><a href="/month/5026/">Погода на месяц</a></li>
+		<li class="icon"><a href="/city/gm/5026/">Геомагнитная обстановка</a></li>
+				<li class="icon"><a href="/city/legacy/5026/">Погода по-старому</a></li>
+		<li class="icon"><a href="/city/busy/5026/">Погода для занятых</a></li>
+				<li class="icon diary"><a href="http://www.gismeteo.ru/diary/5026/">Дневник погоды</a></li>		<li id="in_this_town_beta" class="betapromo" style="display:none; background: none; position: relative;">
+<i class="betaico"></i>
+<a class="betalink" href="http://beta.gismeteo.ru/weather-voronezh-5026/">Бета-версия нового сайта</a>
+</li>	</ul>
+<div id="this_town" class="section">
+	<div id="this_town_adriver_banner"></div>
+<script type="text/javascript">
+	var this_town_adriver_banner = new adriver("this_town_adriver_banner", {sid:48250, bt:52, bn:8, keyword:"eastern_europe;russia;r258;sr2185;c5026", custom:{"1":"sun","2":"M10-M5","110":screen.width,"111":screen.height}});
+	this_town_adriver_banner.onLoadComplete(function () { if( !this.reply.adid ){$('#in_this_town_beta').show();} });
+</script></div>	</div></div>
+	
+		
+		
+				
+	<div class="rframe awad dynamic wide" id="weather-news"><div class="fcontent">
+					<h2><a href="http://www.gismeteo.ru/news/">Новости</a></h2>
+		<div class="section"><div class="gradient png"></div><ul>
+	<li class="news item links-black"><a href="http://www.gismeteo.ru/news/klimat/13507-v-tsentralnoy-rossii-udarili-20-gradusnye-morozy/"><img width="80" height="54" border="0" src="http://st5.gisstatic.ru/static/news/img/anno/13507/80_54_a73f6d37.jpg" alt="В Центральной России ударили 20-градусные морозы"><span>В Центральной России ударили 20-градусные морозы</span></a></li>
+	<li class="news item links-black"><a href="http://www.gismeteo.ru/news/proisshestviya/13517-na-territorii-nizhnego-novgoroda-iz-za-snegopadov-vveden-rezhim-chs/"><img width="80" height="54" border="0" src="http://st5.gisstatic.ru/static/news/img/anno/13517/80_54_d0737d59.jpg" alt="На территории Нижнего Новгорода из-за снегопадов введен режим ЧС"><span>На территории Нижнего Новгорода из-за снегопадов введен режим ЧС</span></a></li>
+	<li class="news item links-black"><a href="http://www.gismeteo.ru/news/proisshestviya/13506-globalnoe-poteplenie-postavilo-krest-na-sverhzvukovyh-samoletah/"><img width="80" height="54" border="0" src="http://st4.gisstatic.ru/static/news/img/anno/13506/80_54_72acca3d.jpg" alt="Глобальное потепление поставило крест на сверхзвуковых самолетах"><span>Глобальное потепление поставило крест на сверхзвуковых самолетах</span></a></li>
+	<li class="news item links-black"><a href="http://www.gismeteo.ru/news/klimat/13487-video-ovtsa-poschitala-sebya-sobakoy/"><img width="80" height="54" border="0" src="http://st8.gisstatic.ru/static/news/img/anno/13487/80_54_25126ab3.jpg" alt="Видео: овца посчитала себя собакой"><span>Видео: овца посчитала себя собакой</span></a></li>
+	<li class="news item links-black"><a href="http://www.gismeteo.ru/news/proisshestviya/13510-livni-razrushili-pyat-podpornyh-sten-v-sevastopole/"><img width="80" height="54" border="0" src="http://st5.gisstatic.ru/static/news/img/anno/13510/80_54_f2bffc1c.jpg" alt="Ливни разрушили пять подпорных стен в Севастополе"><span>Ливни разрушили пять подпорных стен в Севастополе</span></a></li>
+	<li class="news item links-black last"><a href="http://www.gismeteo.ru/news/stihiynye-yavleniya/13513-kamchatka-okazalas-pod-pogodnoy-ugrozoy/"><img width="80" height="54" border="0" src="http://st5.gisstatic.ru/static/news/img/anno/13513/80_54_568a2fc3.jpg" alt="Камчатка оказалась под погодной угрозой"><span>Камчатка оказалась под погодной угрозой</span></a></li>
+</ul></div>
+				</div></div>
+		
+	<div class="rframe" id="astronomy"><div class="fcontent">
+	<h2>Астрономия</h2>
+<div class="section">
+<div class="wrap">
+	<h6 class="sun">Солнце</h6>
+	<h6 class="moon">Луна</h6>
+</div>
+<div class="wrap">
+	<ul class="sun" title="На 10.02.2015">
+		<li><strong>Восход</strong> 07:44</li>		<li><strong>Заход</strong> 17:30</li>				<li><strong>Долгота</strong> 09:46</li>	</ul>
+	<ul class="moon moon11" title="На 10.02.2015">
+		<li class="phaze"><strong>Фаза</strong> 65%</li>
+		<li><strong>Стареющая</strong></li>
+	</ul>
+</div>
+<div class="wrap date"><span class="icon date_bottom">10 февраля 2015</span></div>
+</div>	</div></div>
+	
+	<div class="rframe" id="ad-left"><div class="fcontent">
+	<!-- Яндекс.Директ -->
+<div id="yandex_ad"></div>
+<style type=text/css>
+#yandex_ad {
+	min-height: 90px;
+}
+#yap-yandex_ad-horizontal .yap-logo-bg-color {
+	background: transparent!important;
+	position: absolute!important;
+	bottom: 4px;
+	left:initial!important;
+	right:.4em!important;
+}
+#yap-yandex_ad-horizontal .yap-font-size {
+	padding-bottom: 20px!important;
+	font-size: 90%!important;
+	height: 100%;
+	min-height: 132px;
+}
+#yandex_ad {
+	min-height: 90px;
+}
+.yap-contacts {
+	font-size: 100%!important;
+}
+.yap-item-inner {
+	padding-top: .6em!important;
+	display: table!important;
+	margin: 8px!important;
+	height: 100%!important;
+}
+.yap-picture-block {
+	display: table-cell!important;
+	height: 100%!important;
+	padding-right: 10px!important;
+}
+</style>
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+    w[n] = w[n] || [];
+    w[n].push(function() {
+        Ya.Direct.insertInto(136342, "yandex_ad", {
+            stat_id: 15,
+            ad_format: "direct",
+            font_size: 1,
+            type: "horizontal",
+            limit: 3,
+            title_font_size: 2,
+            links_underline: true,
+            site_bg_color: "FFFFFF",
+            title_color: "CC0000",
+            url_color: "999999",
+            text_color: "000000",
+            hover_color: "FF0000",
+            no_sitelinks: true
+        });
+    });
+    t = d.getElementsByTagName("script")[0];
+    s = d.createElement("script");
+    s.src = "//an.yandex.ru/system/context.js";
+    s.type = "text/javascript";
+    s.async = true;
+    t.parentNode.insertBefore(s, t);
+})(window, document, "yandex_context_callbacks");
+</script>
+	</div></div>
+	<div class="rframe" id="ad-lb"><div class="fcontent">
+	<div id="LeftBanner240x400_607" ></div>
+<script type="text/javascript">
+gis.ad.left = {
+  g_rtb_yandex_page_id: 'R-130942-8',
+  to: 'LeftBanner240x400_607',
+  callback:function(){
+		
+		// yandex_rtb
+		(function(w, d, n, s, t) {
+			w[n] = w[n] || [];
+			w[n].push(function() {
+			Ya.Context.AdvManager.render(
+				{
+					blockId: gis.ad.left.g_rtb_yandex_page_id,
+					renderTo: gis.ad.left.to,
+					async: true
+				},
+				function(){ gis.ad.left.callback_scroll(); }
+			);
+			});
+			t = d.getElementsByTagName("script")[0];
+			s = d.createElement("script");
+			s.type = "text/javascript";
+			s.src = "//an.yandex.ru/system/context.js";
+			s.async = true;
+			t.parentNode.insertBefore(s, t);
+		})(window, window.document, "yandexContextAsyncCallbacks");
+	},
+	callback_adriver: function()
+	{
+		var adriver_par = {sid:48250, bt:52, bn:4, pz:3, keyword:"eastern_europe;russia;r258;sr2185;c5026", custom:{"1":"sun","2":"M10-M5","110":screen.width,"111":screen.height}};
+		if ($('#page.Main').length > 0 ) adriver_par.sz = 'main';
+		new adriver(gis.ad.left.to, adriver_par);
+	},
+	callback_scroll: function() {
+		$(window).bind('load', function() {
+			var
+				$window = $(this);
+			gis.ad.left.scroll_top = $('#' + gis.ad.left.to).offset().top;
+			$window.bind('scroll', gis.ad.left.scroll_init);
+			$window.trigger('scroll');
+		});
+	},
+	scroll_top: 0,
+	scroll_init: function() {
+		var
+			ch = document.documentElement.clientHeight || document.body.clientHeight,
+			st = document.documentElement.scrollTop || document.body.scrollTop;
+		if (st >= gis.ad.left.scroll_top || st + ch >= gis.ad.left.scroll_top) {
+			gis.ad.left.callback_adriver();
+			$(window).unbind('scroll', gis.ad.left.scroll_init);
+		}
+	}
+};
+
+gis.ad.left.callback();
+</script>	</div></div>
+	<div class="rframe" id="weather-maps"><div class="fcontent">
+	<h2><a href="/map/catalog/">Карты погоды</a></h2>
+<ul class="wrap">
+<li><a title="Осадки в&nbsp;Московской области" href="/map/569/"><span class="map" style="background-image: url(http://st5.gisstatic.ru/images/maps/ru/preview/preview.569.2.11.1.jpg)"><br></span>Осадки в&nbsp;Московской области</a></li>
+<li><a title="Облачность и фронты в&nbsp;Центральной России" href="/map/568/"><span class="map" style="background-image: url(http://st7.gisstatic.ru/images/maps/ru/preview/preview.568.3.14.1.jpg)"><br></span>Облачность и фронты в&nbsp;Центральной России</a></li>
+<li><a title="Температура воздуха в&nbsp;Центральной России" href="/map/570/"><span class="map" style="background-image: url(http://st4.gisstatic.ru/images/maps/ru/preview/preview.570.4.14.1.jpg)"><br></span>Температура воздуха в&nbsp;Центральной России</a></li>
+<li><a title="Температура и явления погоды в&nbsp;Центральной России" href="/map/622/"><span class="map" style="background-image: url(http://st7.gisstatic.ru/images/maps/ru/preview/preview.622.5.14.1.jpg)"><br></span>Температура и явления погоды в&nbsp;Центральной России</a></li>
+<li><a title="Осадки в&nbsp;Прибалтике" href="/map/618/"><span class="map" style="background-image: url(http://st7.gisstatic.ru/images/maps/ru/preview/preview.618.2.15.1.jpg)"><br></span>Осадки в&nbsp;Прибалтике</a></li>
+<li><a title="Облачность и фронты в&nbsp;Прибалтике" href="/map/574/"><span class="map" style="background-image: url(http://st7.gisstatic.ru/images/maps/ru/preview/preview.574.3.15.1.jpg)"><br></span>Облачность и фронты в&nbsp;Прибалтике</a></li>
+<li><a title="Температура воздуха в&nbsp;Прибалтике" href="/map/586/"><span class="map" style="background-image: url(http://st7.gisstatic.ru/images/maps/ru/preview/preview.586.4.15.1.jpg)"><br></span>Температура воздуха в&nbsp;Прибалтике</a></li>
+<li><a title="Температура и явления погоды в&nbsp;Прибалтике" href="/map/623/"><span class="map" style="background-image: url(http://st7.gisstatic.ru/images/maps/ru/preview/preview.623.5.15.1.jpg)"><br></span>Температура и явления погоды в&nbsp;Прибалтике</a></li>
+</ul>
+<div class="wrap">
+	<div class="tab"><a href="#maps-search">Найти карту</a></div>
+	<div class="more"><a href="/map/catalog/" class="icon">Каталог карт</a></div>
+</div>
+<div class="rframe" id="maps-search">
+<form action="/map/common/" method="GET">
+	<h3>Стандартные карты</h3>
+	<div class="wrap">
+	<select class="msday" name="day">
+		<option value="0">Сегодня</option>
+		<option value="1">Завтра</option>
+		<option value="-1">Вчера</option>
+	</select>
+  <select class="msregion" name="region">
+				<option value="1">Юго-Восточная Азия</option>
+				<option value="2">Южная Америка</option>
+				<option value="3">Австралия</option>
+				<option value="4">Африка</option>
+				<option value="5">Сибирь</option>
+				<option value="6">Юг Сибири</option>
+				<option value="9">Север Сибири</option>
+				<option value="10">Северная Америка</option>
+				<option value="11">Московская область</option>
+				<option value="12">Дальний Восток</option>
+				<option value="13">Европа</option>
+				<option value="14">Центральная Россия</option>
+				<option value="15">Прибалтика</option>
+				<option value="16">Урал</option>
+				<option value="17">Черноморское побережье</option>
+				<option value="18">Украина</option>
+				<option value="19">Беларусь</option>
+				<option value="20">Литва</option>
+				<option value="21">Антарктика</option>
+				<option value="22">Средиземноморье</option>
+				<option value="23">Молдова</option>
+			</select>
+  <select class="mstopic" name="topic">
+				<option value="2">Осадки</option>
+				<option value="3">Облачность и фронты</option>
+				<option value="4">Температура воздуха</option>
+				<option value="5">Температура и явления погоды</option>
+				<option value="6">Температура воды, воздуха и явления погоды</option>
+				<option value="7">Спутниковый снимок</option>
+				<option value="8">Фактическая температура и явления погоды</option>
+				<option value="9">Фактические осадки</option>
+				<option value="10">Приземный ветер</option>
+				<option value="11">Тайфуны, ураганы</option>
+				<option value="12">Радар</option>
+			</select>
+	</div>
+	<div class="submit">
+		<input type="submit" value="найти">
+	</div>
+</form>
+</div>	</div></div>
+	<div class="rframe" id="informer"><div class="fcontent">
+	<h2><a href="http://www.gismeteo.ru/informers/">Информер</a></h2>
+<div class="section"><a href="http://www.gismeteo.ru/informers/" target="_blank">
+<img align="left" alt="Информер" border="0" bprder="0" width="125" height="55" src="http://st7.gisstatic.ru/images/files/images/inf.png" style="margin-right: 8px;" title="Получить код информера" />
+</a>Погода в Воронеже для вашего сайта за пару минут. Точный прогноз погоды в России и по всему миру от Гисметео.
+<div class="more"><a class="icon" href="http://www.gismeteo.ru/informers/" target="_blank">Подробнее</a></div>
+</div>
+	</div></div>
+<!-- content left end -->
+</div>
+<div class="rframe" id="link_block"><div class="fcontent">
+	<h2><a   href="/catalog/russia/">Погода в России</a></h2>
+<div class="cross_links subregions_list wrap">
+<div class="subregions_column"><div class="cross_links_grad"></div><ul class="subregions_list__column">
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-13</span>
+			<span class='value m_temp f'>+9</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/5044/">Анна</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-10</span>
+			<span class='value m_temp f'>+14</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/11626/">Бобров</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-11</span>
+			<span class='value m_temp f'>+12</span>
+			<img class="png" align=absmiddle src=http://st5.gisstatic.ru/static/images/icons/18/d.sun.c3.png height=18 />
+					</span>
+					<a href="/city/daily/5042/">Бутурлиновка</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-13</span>
+			<span class='value m_temp f'>+9</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/139909/">Верхняя Хава</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-5</span>
+			<span class='value m_temp f'>+23</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.c4.png height=18 />
+					</span>
+					<a href="/city/daily/14514/">Воробьевка</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-7</span>
+			<span class='value m_temp f'>+19</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/5026/">Воронеж</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-10</span>
+			<span class='value m_temp f'>+14</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/241224/">Каменка</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-7</span>
+			<span class='value m_temp f'>+19</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/140174/">Каширское</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-10</span>
+			<span class='value m_temp f'>+14</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/5041/">Лиски</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-9</span>
+			<span class='value m_temp f'>+16</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/5025/">Нижнедевицк</a>
+		</li>
+		</ul></div><div class="subregions_column"><div class="cross_links_grad"></div><ul class="subregions_list__column">	<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-7</span>
+			<span class='value m_temp f'>+19</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/12491/">Новая Усмань</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-10</span>
+			<span class='value m_temp f'>+14</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/5027/">Нововоронеж</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-5</span>
+			<span class='value m_temp f'>+23</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/5029/">Новохоперск</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-6</span>
+			<span class='value m_temp f'>+21</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.c4.png height=18 />
+					</span>
+					<a href="/city/daily/11628/">Ольховатка</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-10</span>
+			<span class='value m_temp f'>+14</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/5040/">Острогожск</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-6</span>
+			<span class='value m_temp f'>+21</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.c4.png height=18 />
+					</span>
+					<a href="/city/daily/5043/">Павловск</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-13</span>
+			<span class='value m_temp f'>+9</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/140613/">Панино</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-6</span>
+			<span class='value m_temp f'>+21</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.c4.png height=18 />
+					</span>
+					<a href="/city/daily/11630/">Подгоренский</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-7</span>
+			<span class='value m_temp f'>+19</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/139989/">Подклетное</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-7</span>
+			<span class='value m_temp f'>+19</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/12488/">Придонской</a>
+		</li>
+		</ul></div><div class="subregions_column"><div class="cross_links_grad"></div><ul class="subregions_list__column">	<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-13</span>
+			<span class='value m_temp f'>+9</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/140790/">Рамонь</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-9</span>
+			<span class='value m_temp f'>+16</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/140838/">Репьевка</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-6</span>
+			<span class='value m_temp f'>+21</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.c4.png height=18 />
+					</span>
+					<a href="/city/daily/5057/">Россошь</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-7</span>
+			<span class='value m_temp f'>+19</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/12486/">Семилуки</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-13</span>
+			<span class='value m_temp f'>+9</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/140802/">Сомово</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-7</span>
+			<span class='value m_temp f'>+19</span>
+			<img class="png" align=absmiddle src=http://st8.gisstatic.ru/static/images/icons/18/d.sun.c2.png height=18 />
+					</span>
+					<a href="/city/daily/12489/">Сомово</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-11</span>
+			<span class='value m_temp f'>+12</span>
+			<img class="png" align=absmiddle src=http://st5.gisstatic.ru/static/images/icons/18/d.sun.c3.png height=18 />
+					</span>
+					<a href="/city/daily/11627/">Таловая</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-13</span>
+			<span class='value m_temp f'>+9</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/141097/">Терновка</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-9</span>
+			<span class='value m_temp f'>+16</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/241223/">Хохольский</a>
+		</li>
+			<li class="png catalog_item typeT">
+		<span class="s-ubregions_in_line_data">
+						<span class='value s_dos m_temp c'>-13</span>
+			<span class='value m_temp f'>+9</span>
+			<img class="png" align=absmiddle src=http://st6.gisstatic.ru/static/images/icons/18/d.sun.png height=18 />
+					</span>
+					<a href="/city/daily/11625/">Эртиль</a>
+		</li>
+	</ul></div>
+</div>
+<!--  
+<div class="section">
+<p class="more cross_links_grad_under_lik">
+<a class="icon"   href="/catalog/russia/">Прогноз погоды в России</a>
+</p>
+</div>
+--></div></div>
+</div>
+<!-- content end -->
+<div id="footer">
+	<div class="copyright">
+<span>Copyright © 1998-2015, Gismeteo.RU</span><br>
+<span>Наши проекты:
+	<a class="ua_ru" href="http://www.gismeteo.ua/city/daily/5026/" target="_blank"><img alt="Погода в Воронеже на сегодня, завтра" src="http://st4.gisstatic.ru/static/images/blank.gif" border="0" height="10" width="42"></a>, 
+	<a class="by_ru" href="http://www.gismeteo.by/city/daily/5026/" target="_blank"><img alt="Погода в Воронеже на сегодня, завтра" src="http://st8.gisstatic.ru/static/images/blank.gif" border="0" height="10" width="49"></a>, 
+	<a class="lt_ru" href="http://www.gismeteo.lt/city/daily/5026/" target="_blank"><img alt="Погода в Воронеже на сегодня, завтра" src="http://st8.gisstatic.ru/static/images/blank.gif" border="0" height="10" width="32"></a>, 
+	<a class="md_ru" href="http://www.gismeteo.md/city/daily/5026/" target="_blank"><img alt="Погода в Воронеже на сегодня, завтра" src="http://st4.gisstatic.ru/static/images/blank.gif" border="0" height="10" width="45"></a>,
+	<a class="lv_ru" href="http://www.gismeteo.lv/city/daily/5026/" target="_blank"><img alt="Погода в Воронеже на сегодня, завтра" src="http://st5.gisstatic.ru/static/images/blank.gif" border="0" height="10" width="38"></a>
+</span>
+</div>	<style type="text/css">#Page .right-cell .counters{display:none;}</style>
+<!--LiveInternet logo--><a href="http://www.liveinternet.ru/click" target="_blank"><img src="http://counter.yadro.ru/logo?13.11" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" alt="" border="0" width="88" height="31"/></a><!--/LiveInternet--></div>
+</div>
+<!-- canvas end -->
+</div>
+</div>
+<!-- AdRiver code START. Type:AjaxJS Site: Gismeteo PZ: 0 BN: 9 -->
+<div id="adriver_banner_1631336038"></div>
+<script type="text/javascript">
+new adriver("adriver_banner_1631336038",{sid:48250, bt:52, bn:9, keyword:"eastern_europe;russia;r258;sr2185;c5026", custom:{"1":"sun","2":"M10-M5","110":screen.width,"111":screen.height} });
+</script>
+<!-- AdRiver code END -->
+	<!-- Google Analytics -->
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12105830-1', 'gismeteo.ru');
+  ga('send', 'pageview');
+
+</script>
+	<!-- END Google Analytics -->
+<script language="JavaScript">
+var img = new Image();
+img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\\*/g,'%2a') + '*gismeteo_ru/ru/CP1251/tmsec=gismeteo_total/';
+</script>
+<noscript>
+<img src="http://www.tns-counter.ru/V13a****gismeteo_ru/ru/CP1251/tmsec=gismeteo_total/" width="1" height="1" alt="" />
+</noscript>
+<!-- (C)2000-2013 Gemius SA - gemiusAudience / pp.gismeteo.ru / Home Page -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'zZA1XybEwaJCpF3jIZup1qQP71w6SQN6slNPKEjxV3j.B7';
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://garu.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+<script type="text/JavaScript">
+//<!--[CDATA[
+function onload_inits() {
+    if (_timer) {
+        clearInterval(_timer);
+        _timer = null;
+    }
+    try {
+        for (var i=0, l=onloads.length; i<l; i++) {
+            var onloads_item = onloads.shift();
+            onloads_item();
+        }
+    } catch(error) {}
+};
+if (document.addEventListener) {
+    document.addEventListener("DOMContentLoaded", onload_inits, false);
+}
+/*@cc_on @*/
+/*@if (@_win32)
+    document.write("<script id=__ie_onload defer src=javascript:void(0)><\/script>");
+    var script = document.getElementById("__ie_onload");
+    script.onreadystatechange = function() {
+        if (this.readyState == "complete") {
+            onload_inits();
+        }
+    };
+/*@end @*/
+if (/WebKit/i.test(navigator.userAgent)) {
+    var _timer = setInterval(function() {
+        if (/loaded|complete/.test(document.readyState)) {
+            onload_inits();
+        }
+    }, 10);
+}
+window.onload = onload_inits;
+//]]-->
+</script>
+</body>
+<!--GMT+0: 2015-02-10 16:54:33-->
+<!--GMT+0: 2015-02-10 16:54:33-->
+</html>
